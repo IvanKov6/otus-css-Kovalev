@@ -1,0 +1,77 @@
+body  {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+@font-face {
+    font-family:'Bitter' ;
+    src: url(/fonts/Bitter-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:'Play' ;
+    src: url(/fonts/PlayfairDisplay-VariableFont_wght.ttf);
+}
+.blockquote  {
+    font-family:'Bitter' ;
+    font-weight: 400;
+    font-size: 26px;
+}
+.mod  {
+    font-family: 'Play';
+    font-weight: 600;
+}
+.modstudio  {
+    font-family: 'Play';
+    font-weight: 500;
+}
+h2  {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+}
+.nav-sec  {
+    font-weight: 500;
+    font-size: 24px;
+}
+.katename  {
+    font-weight: 500;
+    font-size: 86px;
+}
+.artdirector{
+    font-size: 500;
+    font-size: 18px;
+}
+.content  {
+    font-weight: 700;
+    font-size: 16px;
+}
+.testimonialswords  {
+    font-family: 'Bitter';
+    font-weight: 400;
+    font-size: 32px;
+}
+.strengthsword  {
+    font-family: 'Play';
+    font-weight: 500;
+    font-size: 86;
+}
+.strengthscontent  {
+    font-family: 'Bitter';
+    font-weight: 400;
+    font-size: 34px;
+}
+.telephoneaddres  {
+    font-weight: 400;
+    font-size: 16px;
+}
+.productmod  {
+    font-weight: 500;
+    font-style: medium;
+    font-size: 18px;
+}
+.modmedia  {
+    font-weight: 400;
+    font-size: 16px;
+
+}
