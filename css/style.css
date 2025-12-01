@@ -17,11 +17,11 @@ body  {
     font-weight: 400;
     font-size: 26px;
 }
-.mod  {
+.section-mod  {
     font-family: 'Play';
     font-weight: 600;
 }
-.modstudio  {
+.section-modstudio  {
     font-family: 'Play';
     font-weight: 500;
 }
@@ -30,15 +30,15 @@ h2  {
     font-size: 24px;
     line-height: 100%;
 }
-.nav-sec  {
+.section-nav  {
     font-weight: 500;
     font-size: 24px;
 }
-.katename  {
+.title-katename  {
     font-weight: 500;
     font-size: 86px;
 }
-.artdirector{
+.list-ofprossions{
     font-size: 500;
     font-size: 18px;
 }
@@ -46,31 +46,31 @@ h2  {
     font-weight: 700;
     font-size: 16px;
 }
-.testimonialswords  {
+.testimonials-text  {
     font-family: 'Bitter';
     font-weight: 400;
     font-size: 32px;
 }
-.strengthsword  {
+.strengths-section {
     font-family: 'Play';
     font-weight: 500;
-    font-size: 86;
+    font-size: 87;
 }
-.strengthscontent  {
+.strengths-list  {
     font-family: 'Bitter';
     font-weight: 400;
     font-size: 34px;
 }
-.telephoneaddres  {
+.telephone-addres  {
     font-weight: 400;
     font-size: 16px;
 }
-.productmod  {
+.productmod-content  {
     font-weight: 500;
     font-style: medium;
     font-size: 18px;
 }
-.modmedia  {
+.modmedia-content  {
     font-weight: 400;
     font-size: 16px;
 
